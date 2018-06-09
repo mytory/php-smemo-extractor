@@ -1,0 +1,14 @@
+{
+    "name": "mytory/php-smemo-extractor",
+    "description": "Samsung Memo App Content Extractor",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.10"
+    },
+    "authors": [
+        {
+            "name": "An, Hyeong-woo",
+            "email": "mytory@gmail.com"
+        }
+    ]
+}
